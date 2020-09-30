@@ -1,15 +1,9 @@
 *.csv
-*.p
 *.json
 *.pyc
 *.log
 .DS_Store
-*.toml
 .vscode
-**/sample*
-**/output*
-**/test*
-**/trail*
 *.txt
 *.ipynb_checkpoints
 *.sh
